@@ -62,6 +62,8 @@
 * Se explora y genera grafico de la distribución entre los clientes que cancelaron (evasión) y los que no cancelaron.
 * Se genera grafico de la distribución de la evasión con variables categóricas, como, género, tipo de contrato, método de pago, etc. este análisis revela patrones interesantes, los clientes de ciertos perfiles tienen una mayor tendencia a cancelar el servicio, lo que ayudará a recomendar acciones estratégicas.
 
+* ![Ingresos Netos](https://github.com/GabrielGitHub1709/Challenges_ONE/blob/554e6af376ec718413fd8605bf150ac257d29c83/Reportes_y_Graficas/Reporte_Ingresos_Netos.PNG)
+
 ## 📄 Informe final
 
 ## Resumen:
