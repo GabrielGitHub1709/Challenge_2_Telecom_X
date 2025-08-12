@@ -58,15 +58,30 @@
 
 ## 📊 Carga y análisis
 * Se realiza un análisis descriptivo de los datos, calculando métricas como media, mediana, desviación estándar y otras medidas que ayudan a comprender mejor la distribución y el comportamiento de los clientes para columnas categoricas y columnas númericas.
+* #### Análisis Descriptivo
 * ![Analisis Descriptivo](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/AnalisisDescriptivo.PNG)
 
 * Se explora y generan los graficos de las variables numéricas, "Antiguedad" (meses de contrato), "Cargos_totales y "Cuentas_Diarias".
-*![Meses de Contrato] (https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/MesesContrato.png)
+* #### Meses de Contrato
+*![Meses de Contrato](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/MeseContrato.PNG)
+* #### Cargos totales
+*![Cargos totales](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/CargosTotales.PNG)
+* #### Cuentas Diarias
+*![Cuentas Diarias](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/CuentasDiarias.PNG)
 
 * Se explora y genera grafico de la distribución entre los clientes que cancelaron (evasión) y los que no cancelaron.
+* #### Distribución de la Evasión
+*![Distribución de la Evasión](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/DistribucionEvasion.PNG)
 * Se genera grafico de la distribución de la evasión con variables categóricas, como, género, tipo de contrato, método de pago, etc. este análisis revela patrones interesantes, los clientes de ciertos perfiles tienen una mayor tendencia a cancelar el servicio, lo que ayudará a recomendar acciones estratégicas.
+* #### Evasión con Genero
+*![Evasión con Genero](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/EvasionGenero.PNG)
+* #### Evasión con Tipo de Contrato - Evasión con Servicio de Internet
+*![Evasión con Tipo de Contrato - Evasión con Servicio de Internet](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/EvasionTipoContrato-ServInternet.PNG)
+* #### Evasión con Metodo de Pago - Evasión con Personas de la 3ra Edad
+*![Evasión con Metodo de Pago - Evasión con Personas de la 3ra Edad](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/EvasionMetPago-Persona3raEdad.PNG)
+* #### Evasión con Socios - Evasión con Dependientes
+*![Evasión con Socios - Evasión con Dependientes](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/EvasionSocios-Dependientes.PNG)
 
-* 
 ## 📄 Informe final
 
 ## Resumen:
