@@ -74,7 +74,7 @@
 *![Distribución de la Evasión](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/DistribucionEvasion.PNG)
 * Se genera grafico de la distribución de la evasión con variables categóricas, como, género, tipo de contrato, método de pago, etc. este análisis revela patrones interesantes, los clientes de ciertos perfiles tienen una mayor tendencia a cancelar el servicio, lo que ayudará a recomendar acciones estratégicas.
 * #### Evasión con Genero
-*![Evasión con Genero](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/EvasionGenero.PNG)
+*![Evasión con Genero](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/EvacionGenero.PNG)
 * #### Evasión con Tipo de Contrato - Evasión con Servicio de Internet
 *![Evasión con Tipo de Contrato - Evasión con Servicio de Internet](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/EvasionTipoContrato-ServInternet.PNG)
 * #### Evasión con Metodo de Pago - Evasión con Personas de la 3ra Edad
