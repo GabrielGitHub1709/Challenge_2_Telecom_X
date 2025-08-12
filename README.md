@@ -58,9 +58,11 @@
 
 ## 📊 Carga y análisis
 * Se realiza un análisis descriptivo de los datos, calculando métricas como media, mediana, desviación estándar y otras medidas que ayudan a comprender mejor la distribución y el comportamiento de los clientes para columnas categoricas y columnas númericas.
-* ![Analisis Descriptivo](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/554e6af376ec718413fd8605bf150ac257d29c83/Reportes_y_Graficas/AnalisisDescriptivo.PNG)
+* ![Analisis Descriptivo](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/AnalisisDescriptivo.PNG)
 
 * Se explora y generan los graficos de las variables numéricas, "Antiguedad" (meses de contrato), "Cargos_totales y "Cuentas_Diarias".
+*![Meses de Contrato] (https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X/blob/9a7482c14463dafcc792af90eea13785cab6f849/Reportes_y_Graficas/MesesContrato.png)
+
 * Se explora y genera grafico de la distribución entre los clientes que cancelaron (evasión) y los que no cancelaron.
 * Se genera grafico de la distribución de la evasión con variables categóricas, como, género, tipo de contrato, método de pago, etc. este análisis revela patrones interesantes, los clientes de ciertos perfiles tienen una mayor tendencia a cancelar el servicio, lo que ayudará a recomendar acciones estratégicas.
 
