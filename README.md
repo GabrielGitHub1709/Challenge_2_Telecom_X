@@ -108,6 +108,32 @@
 * Investigar estrategias para aumentar la adopción de servicios de seguridad y soporte entre los clientes, en particular aquellos con alto riesgo de abandono.
 
 
+ ## Construido con 🛠️
+
+* [Git y GitHub](https://git-scm.com/book/es/v2) - El control de versiones para gestionar los cambios realizados en un proyecto a lo largo del tiempo.
+* [Google Colab](https://colab.research.google.com/) -Colab, también conocido como "Colaboratory", te permite programar y ejecutar Python en tu navegador.
+* [Trello](https://trello.com/es) - Tablero para mantener las tareas organizadas y avance del proyecto.
+* [Visaul Code](https://code.visualstudio.com/) - Herramienta de desarrollo.
+
+## Versionamiento 📌
+
+Se uso [Git y GitHub](https://git-scm.com/book/es/v2) para el versionado. Para todas las versiones disponibles, mira el [Proyecto en este repositorio](https://github.com/GabrielGitHub1709/Challenge_2_Telecom_X).
+
+## Participante ✒️
+
+* **Gabriel Gutierrez** - *Participante G-8 One* - [GabrielGitHub1709](https://github.com/GabrielGitHub1709)
+
+## Patrocinadores
+ ✒️
+* **Equipo Oracle Next Education
+* **Alura Latam
+
+![OracleEducation](https://github.com/GabrielGitHub1709/Challenges_ONE/blob/060840d2dd4b39d339f3b23adeeee9cea9100d12/Reportes_y_Graficas/OracleEducation.PNG)
+
+![Oracle-Alura](https://github.com/user-attachments/assets/cd6e40db-8288-41c4-9d26-6703fc004d6a)
+
+
+
 
 
 
